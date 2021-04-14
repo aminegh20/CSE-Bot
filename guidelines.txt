@@ -1,0 +1,15 @@
+**__FEEL FREE TO SKIP THIS PART IF YOU HAVE READ IT BEFORE!__**
+
+**-You will be given 10 random questions. For each question, you have 60 seconds to answer it, so be quick ;)**
+
+**-If the 60 seconds timeout, you will lose the points for the question and will be moved to the next question.**
+
+**-The questions are given in an MCQ format --> each question will be given 4 options labeled A, B, C, D respectively.**
+
+**-Your answer to the questions should be one of those four options (written in either lowercase or uppercase). Any other 
+answer will be totally ignored.**
+
+**-If you have have carefully read and understood the guidelines, type YES in the chat.**
+
+**-To cancel the current Trivia session, type CANCEL or QUIT in the chat (case insensitive).**
+
